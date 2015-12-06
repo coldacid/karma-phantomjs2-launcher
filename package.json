@@ -1,7 +1,7 @@
 {
   "name": "karma-phantomjs2-launcher",
   "version": "0.3.2",
-  "description": "A Karma plugin. Launcher for PhantomJS 2. Slightly changed karma-phantomjs-launcher plugin.ß",
+  "description": "A Karma browser launcher for PhantomJS 2. Slightly changed from karma-phantomjs2-launcher.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
